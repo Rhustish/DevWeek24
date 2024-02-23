@@ -7,3 +7,13 @@
   /* padding: 2rem; */
   /* text-align: center; */
 }
+.button{
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  margin-top: 20px;
+  width: 20vw;
+  /* border: 3px black dashed; */
+  border-radius: 6px;
+  /* height: 20vh; */
+}
